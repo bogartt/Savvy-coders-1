@@ -1,0 +1,32 @@
+body {
+  background-color: turquoise;
+}
+.blog {
+  color: green;
+}
+
+img {
+  width: 50vw;
+  height: 200px;
+  padding: 3px;
+}
+.Title {
+  font-size:20px;
+  Margin: 2px;
+  padding: 3px;
+}
+.navigation_bar {
+  width: 100vw;
+  background-color: red;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  position: fixed;
+}
+.list_text {
+  font-size: 12px
+}
+.container {
+  max-width: 50vw;
+  margin: auto;
+}

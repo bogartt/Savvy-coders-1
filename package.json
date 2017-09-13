@@ -1,0 +1,22 @@
+{
+  "name": "savvy-coders-1",
+  "version": "1.0.0",
+  "description": "Welcome to Owen Bitting's Savvy Coders portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogartt/Savvy-coders-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogartt/Savvy-coders-1/issues"
+  },
+  "homepage": "https://github.com/bogartt/Savvy-coders-1#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
